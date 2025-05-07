@@ -1,0 +1,16 @@
+﻿  Gameplay.cpp
+C:\Users\Lenovo\Downloads\SnakeGameGroup4\SnakeGameGroup4\SnakeGameGroup4\Gameplay.cpp(49,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Lenovo\Downloads\SnakeGameGroup4\SnakeGameGroup4\SnakeGameGroup4\Gameplay.cpp(61,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Lenovo\Downloads\SnakeGameGroup4\SnakeGameGroup4\SnakeGameGroup4\Gameplay.cpp(313,12): warning C4244: '/=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Lenovo\Downloads\SnakeGameGroup4\SnakeGameGroup4\SnakeGameGroup4\Gameplay.cpp(345,12): warning C4244: '/=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Lenovo\Downloads\SnakeGameGroup4\SnakeGameGroup4\SnakeGameGroup4\Gameplay.cpp(368,12): warning C4244: '/=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Lenovo\Downloads\SnakeGameGroup4\SnakeGameGroup4\SnakeGameGroup4\Gameplay.cpp(391,12): warning C4244: '/=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Lenovo\Downloads\SnakeGameGroup4\SnakeGameGroup4\SnakeGameGroup4\Gameplay.cpp(592,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Lenovo\Downloads\SnakeGameGroup4\SnakeGameGroup4\SnakeGameGroup4\Gameplay.cpp(1230,16): warning C4309: 'argument': truncation of constant value
+  Graphic.cpp
+  Images.cpp
+  Menu.cpp
+  SnakeGameGroup4.cpp
+  Sound.cpp
+  Generating Code...
+  SnakeGameGroup4.vcxproj -> C:\Users\Lenovo\Downloads\SnakeGameGroup4\SnakeGameGroup4\x64\Debug\SnakeGameGroup4.exe

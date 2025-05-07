@@ -1,0 +1,36 @@
+888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888
+88                                                                                                                                                  88
+88                                                                                                                                                  88
+88                    0000000000          00000000000000000000  00000000      00000000000000000000000000000000000000                                88
+88                    00BBBBBB00          00BBBBBBBBBBBBBBBBBB00BBBBBBBB00  00BBBBBBBB00BBBBBBBBBBBBBBBBBB00BBBBBB00                                88
+88                    00BBBBBB00          00BBBBBBBBBBBBBBBBBB00BBBBBBBB00  00BBBBBBBB00BBBBBBBBBBBBBBBBBB00BBBBBB00                                88
+88                    00BBBBBB00          00BBBBBBBB333333333300BBBBBBBB00  00BBBBBBBB00BBBBBBBB333333333300BBBBBB00                                88
+88                    00BBBBBB00          00BBBBBBBB33333333330033BBBBBBBB00BBBBBBBB3300BBBBBBBB333333333300BBBBBB00                                88
+88                    00BBBBBB00          00BBBBBBBBBBBBBBBB000033BBBBBBBB00BBBBBBBB3300BBBBBBBBBBBBBBBB0000BBBBBB00                                88
+88                    00BBBBBB00          00BBBBBBBBBBBBBBBB000000BBBBBBBBBBBBBBBBBB0000BBBBBBBBBBBBBBBB0000BBBBBB00                                88
+88                    00BBBBBB00          00BBBBBBBB3333333300  0033BBBBBBBBBBBBBB330000BBBBBBBB333333330000BBBBBB00                                88
+88                    00BBBBBB00000000000000BBBBBBBB3333333300  0033BBBBBBBBBBBBBB330000BBBBBBBB333333330000BBBBBB00000000000000                    88
+88                    00BBBBBBBBBBBBBBBBBB00BBBBBBBBBBBBBBBBBB00  0033BBBBBBBBBB3300  00BBBBBBBBBBBBBBBBBB00BBBBBBBBBBBBBBBBBB00                    88
+88                    00BBBBBBBBBBBBBBBBBB00BBBBBBBBBBBBBBBBBB00  0033BBBBBBBBBB3300  00BBBBBBBBBBBBBBBBBB00BBBBBBBBBBBBBBBBBB00                    88
+88                    003333333333333333330033333333333333333300    00333333333300    003333333333333333330033333333333333333300                    88
+88                    003333333333333333330033333333333333333300    00333333333300    003333333333333333330033333333333333333300                    88
+88                      000000000000000000  000000000000000000        0000000000        000000000000000000  000000000000000000                      88
+88                                                                                                                                                  88
+88                                                                                                                                                  88
+88                                                                                                                                                  88
+88                                                                 0000000000000000                                                                 88
+88                                                               00BBBBBBBBBBBBBBBB00                                                               88
+88                                                             00BBBBBBBBBBBBBBBBBBBB00                                                             88
+88                                                             00BBBBBBBB3333BBBBBBBB00                                                             88
+88                                                             003333333333BBBBBBBBBB00                                                             88
+88                                                             0033333333BBBBBB33333300                                                             88
+88                                                               00000000BBBBBBBBBBBB00                                                             88
+88                                                             00BBBBBB333333BBBBBBBB00                                                             88
+88                                                             00BBBBBBBBBBBBBBBBBBBB00                                                             88
+88                                                             0033BBBBBBBBBBBBBBBB3300                                                             88
+88                                                             003333333333333333333300                                                             88
+88                                                               00333333333333333300                                                               88
+88                                                                 0000000000000000                                                                 88
+88                                                                                                                                                  88
+88                                                                                                                                                  88
+888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888
